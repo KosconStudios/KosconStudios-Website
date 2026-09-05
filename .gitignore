@@ -1,6 +1,7 @@
 # Next.js build output
 .next/
 out/
+node_modules/
 
 # Production builds
 build/
